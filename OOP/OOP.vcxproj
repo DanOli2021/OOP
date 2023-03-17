@@ -129,6 +129,9 @@
   <ItemGroup>
     <ClCompile Include="OOP.cpp" />
   </ItemGroup>
+  <ItemGroup>
+    <Image Include="..\..\..\..\..\..\..\Descargas\Captura de pantalla 2023-03-17 143913.png" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
